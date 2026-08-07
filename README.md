@@ -2,7 +2,7 @@
 
 Self-learning DCC accessory decoder for UK colour-light signals (2–4 aspect + route indicator + Position Light), built on an ESP32. Configured entirely through its own built-in web page over WiFi — no PC or Arduino IDE needed after the initial flash.
 
-This is the ESP32 sibling of the original [Arduino Nano-based DCC Signal Decoder](https://github.com/dixieGB/dcc_signal_decoder) — a separate, independent project with its own firmware, its own Uploader tool, and its own release history. **Installers/updates for the two are never interchangeable** — this repo's Uploader only ever checks for updates here, and vice versa.
+This is the ESP32 sibling of the original [Arduino Nano-based DCC Signal Decoder](https://github.com/dixieGB/dcc_signal_decoder_nano) — a separate, independent project with its own firmware, its own Uploader tool, and its own release history. **Installers/updates for the two are never interchangeable** — this repo's Uploader only ever checks for updates here, and vice versa.
 
 ## What's in this repo
 
